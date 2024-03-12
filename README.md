@@ -13,9 +13,11 @@ The script works by embedding the binary representation of the secret prompt int
    git clone https://github.com/your-username/image-prompt-injection.git
 
 2. **Install Dependencies:**
+   
   pip install opencv-python
 
-3. **Edit Script:**
+4. **Edit Script:**
+   
   Define the path to the original image file that you want to embed the prompt into.
 
   Change the prompt in the script to your prompt.
